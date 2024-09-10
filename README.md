@@ -63,7 +63,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="
 ###
 ###
